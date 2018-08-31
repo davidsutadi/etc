@@ -1,0 +1,1 @@
+"%~dp0php\php.exe" "%~dp0socket-server.php"
